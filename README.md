@@ -1,14 +1,11 @@
+👋 Olá! Sou o Christian, um Desenvolvedor Full-Stack movido pela curiosidade, pela paixão em resolver problemas complexos e em ajudar pessoas a evoluírem.
 
-Olá! 👋 Sou o Christian, um entusiasta da tecnologia movido pela curiosidade e pela busca incessante por soluções criativas para problemas complexos. Minha jornada é marcada pelo aprendizado contínuo e pela paixão em ajudar outras pessoas a se desenvolverem.
+Meu foco é construir soluções digitais de alto impacto. Minhas ferramentas incluem:
+* **Front-end:** React, Next.js, TypeScript, CSS, Acessibilidade, Performance.
+* **Back-end:** Node.js (especialmente NestJS), Go, APIs (REST, GraphQL, gRPC), Bancos de Dados (SQL, NoSQL).
+* **Cloud & DevOps:** AWS, Docker, Jenkins, GitHub Actions.
+* **Arquitetura:** Soluções escaláveis e resilientes.
 
-Como Desenvolvedor Full-Stack, meu objetivo é criar soluções digitais de alta qualidade e impacto. Minhas principais ferramentas incluem:
-* **Front-end:** React, Next.js, TypeScript, CSS, Acessibilidade, Performance
-* **Back-end:** NodeJs (NestJs como principal framework), Go, APIs (REST, GraphQL, gRPC), Database Systems (SQL, NoSQL)
-* **Cloud & DevOps:** AWS, Docker, Jenkins, Github Actions
-* **Arquitetura:** Desenho de soluções escaláveis, resilientes 
+Sempre em busca de desafios e novas tecnologias, estou aprofundando meus conhecimentos em **Go**. Como líder, promovo colaboração e mentoria para capacitar equipes, fomentando um ambiente de constante aprendizado.
 
-Adoro desafios que me tiram da zona de conforto e estou sempre explorando novas tecnologias. Atualmente, tenho um interesse especial em aprofundar meus conhecimentos em **Go (Golang)**, vislumbrando seu potencial para performance e concorrência.
-
-Mais do que apenas código, acredito no poder da colaboração e da mentoria. Como líder, busco capacitar minha equipe, compartilhando conhecimento e fomentando um ambiente onde todos possam evoluir.
-
-Se você também é apaixonado por resolver problemas, aprender constantemente e construir o futuro da web, vamos conversar!
+Se você também é apaixonado por resolver problemas, aprender e construir o futuro da web, vamos conversar!

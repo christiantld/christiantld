@@ -8,4 +8,3 @@ Meu foco é construir soluções digitais de alto impacto. Minhas ferramentas in
 
 Sempre em busca de desafios e novas tecnologias, estou aprofundando meus conhecimentos em **Go**. Como líder, promovo colaboração e mentoria para capacitar equipes, fomentando um ambiente de constante aprendizado.
 
-Se você também é apaixonado por resolver problemas, aprender e construir o futuro da web, vamos conversar!
